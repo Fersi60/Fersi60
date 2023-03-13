@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌩️ Hey there! I'm Mohamed Youssef Fersi, a DevOps/cloud consultant at LOOYAS with a focus on building scalable and reliable infrastructure. 
+Hey there! I'm Mohamed Youssef Fersi, a DevOps/cloud consultant at LOOYAS with a focus on building scalable and reliable infrastructure. 
 <br>When I'm not working on cloud projects, you can find me learning about the latest tech trends and tinkering with new tools. 
 <br>Excited to connect and collaborate with other developers on GitHub!
 
