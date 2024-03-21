@@ -1,8 +1,7 @@
 # 💫 About Me:
-Hey there! I'm Mohamed Youssef Fersi, a DevOps/cloud consultant at LOOYAS with a focus on building scalable and reliable infrastructure. 
-<br>When I'm not working on cloud projects, you can find me learning about the latest tech trends and tinkering with new tools. 
-<br>Excited to connect and collaborate with other developers on GitHub!
-
+I'm Mohamed Youssef Fersi! I'm currently a second-year engineering student, with a strong interest in devops and cloud technologies. In my free time, I enjoy staying up-to-date on the latest developments in these fields and learning new skills through online courses and projects. 
+<br>In addition to my studies, I currently work at Looyas as a devops/cloud consultant, where I have the opportunity to apply my knowledge and skills in a professional setting.
+<br>I'm excited to connect with other professionals and students who share my interests and to explore opportunities to grow and learn.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yousseffersi) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12163683) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fersi_youssef) 
 
