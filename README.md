@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Mohamed Youssef Fersi! I'm currently a second-year engineering student, with a strong interest in devops and cloud technologies. In my free time, I enjoy staying up-to-date on the latest developments in these fields and learning new skills through online courses and projects. 
+I'm Mohamed Youssef Fersi! I'm currently a third-year engineering student, with a strong interest in devops and cloud technologies. In my free time, I enjoy staying up-to-date on the latest developments in these fields and learning new skills through online courses and projects. 
 <br>In addition to my studies, I currently work at Looyas as a devops/cloud consultant, where I have the opportunity to apply my knowledge and skills in a professional setting.
 <br>I'm excited to connect with other professionals and students who share my interests and to explore opportunities to grow and learn.
 ## 🌐 Socials:
